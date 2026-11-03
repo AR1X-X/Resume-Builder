@@ -1,7 +1,4 @@
 # Created by : @oAmricao
-# Runtime-fixed version (2026-10-27):
-#   1) fill_sample(): sample skills were inserted as empty strings; now real
-#      sample skills are filled in.
 """رزومه‌ساز"""
 import tkinter as tk
 from tkinter import filedialog, messagebox
