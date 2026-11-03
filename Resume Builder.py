@@ -1,5 +1,4 @@
 # Created by : @oAmricao
-"""رزومه‌ساز"""
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import webbrowser
